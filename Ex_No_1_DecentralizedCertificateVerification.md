@@ -1,6 +1,6 @@
 # Experiment 1: Decentralized Certificate Verification
-## Name:Joshua Samuel S
-## Reg No:212222040065
+## Name: Joshua Samuel S
+## Reg No: 212222040065
 ## Aim:
   To develop a smart contract for issuing and verifying academic certificates on Ethereum, preventing forgery and ensuring authenticity.
 ## Algorithm:
